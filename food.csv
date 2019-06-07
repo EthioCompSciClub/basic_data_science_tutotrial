@@ -1,0 +1,319 @@
+Iso3,Area Code,Area,Item Code,Item,Element Code,Element,StartYear,EndYear,Year Code,Year,Unit,Value,Flag
+#country+code+v_iso3,,#country+name,#indicator+code,#indicator+name,,,#date+year+start,#date+year+end,,,#indicator+type,#indicator+num,
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,1999,2001,19992001,1999-2001,%,85,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2000,2002,20002002,2000-2002,%,87,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2001,2003,20012003,2001-2003,%,88,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2002,2004,20022004,2002-2004,%,89,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2003,2005,20032005,2003-2005,%,90,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2004,2006,20042006,2004-2006,%,91,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2005,2007,20052007,2005-2007,%,92,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2006,2008,20062008,2006-2008,%,93,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2007,2009,20072009,2007-2009,%,94,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2008,2010,20082010,2008-2010,%,95,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2009,2011,20092011,2009-2011,%,96,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2010,2012,20102012,2010-2012,%,97,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2011,2013,20112013,2011-2013,%,98,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2012,2014,20122014,2012-2014,%,100,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2013,2015,20132015,2013-2015,%,102,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2014,2016,20142016,2014-2016,%,103,F
+ETH,238,Ethiopia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2015,2017,20152017,2015-2017,%,105,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,1999,2001,19992001,1999-2001,I$ per person,74,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2000,2002,20002002,2000-2002,I$ per person,78,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2001,2003,20012003,2001-2003,I$ per person,81,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2002,2004,20022004,2002-2004,I$ per person,85,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2003,2005,20032005,2003-2005,I$ per person,88,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2004,2006,20042006,2004-2006,I$ per person,90,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2005,2007,20052007,2005-2007,I$ per person,92,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2006,2008,20062008,2006-2008,I$ per person,93,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2007,2009,20072009,2007-2009,I$ per person,96,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2008,2010,20082010,2008-2010,I$ per person,101,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2009,2011,20092011,2009-2011,I$ per person,105,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2010,2012,20102012,2010-2012,I$ per person,109,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2011,2013,20112013,2011-2013,I$ per person,109,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2012,2014,20122014,2012-2014,I$ per person,111,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2013,2015,20132015,2013-2015,I$ per person,114,F
+ETH,238,Ethiopia,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2014,2016,20142016,2014-2016,I$ per person,114,F
+ETH,238,Ethiopia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,1999,2001,19992001,1999-2001,%,82,F
+ETH,238,Ethiopia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2000,2002,20002002,2000-2002,%,81,F
+ETH,238,Ethiopia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2001,2003,20012003,2001-2003,%,80,F
+ETH,238,Ethiopia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2002,2004,20022004,2002-2004,%,80,F
+ETH,238,Ethiopia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2003,2005,20032005,2003-2005,%,79,F
+ETH,238,Ethiopia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2004,2006,20042006,2004-2006,%,79,F
+ETH,238,Ethiopia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2005,2007,20052007,2005-2007,%,78,F
+ETH,238,Ethiopia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2006,2008,20062008,2006-2008,%,77,F
+ETH,238,Ethiopia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2007,2009,20072009,2007-2009,%,77,F
+ETH,238,Ethiopia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2008,2010,20082010,2008-2010,%,76,F
+ETH,238,Ethiopia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2009,2011,20092011,2009-2011,%,76,F
+ETH,238,Ethiopia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2010,2012,20102012,2010-2012,%,76,F
+ETH,238,Ethiopia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2011,2013,20112013,2011-2013,%,76,F
+ETH,238,Ethiopia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,1999,2001,19992001,1999-2001,g/capita/day,17,F
+ETH,238,Ethiopia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2000,2002,20002002,2000-2002,g/capita/day,18,F
+ETH,238,Ethiopia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2001,2003,20012003,2001-2003,g/capita/day,19,F
+ETH,238,Ethiopia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2002,2004,20022004,2002-2004,g/capita/day,20,F
+ETH,238,Ethiopia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2003,2005,20032005,2003-2005,g/capita/day,20,F
+ETH,238,Ethiopia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2004,2006,20042006,2004-2006,g/capita/day,21,F
+ETH,238,Ethiopia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2005,2007,20052007,2005-2007,g/capita/day,21,F
+ETH,238,Ethiopia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2006,2008,20062008,2006-2008,g/capita/day,23,F
+ETH,238,Ethiopia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2007,2009,20072009,2007-2009,g/capita/day,24,F
+ETH,238,Ethiopia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2008,2010,20082010,2008-2010,g/capita/day,25,F
+ETH,238,Ethiopia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2009,2011,20092011,2009-2011,g/capita/day,25,F
+ETH,238,Ethiopia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2010,2012,20102012,2010-2012,g/capita/day,26,F
+ETH,238,Ethiopia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2011,2013,20112013,2011-2013,g/capita/day,26,F
+ETH,238,Ethiopia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,1999,2001,19992001,1999-2001,g/capita/day,5,F
+ETH,238,Ethiopia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2000,2002,20002002,2000-2002,g/capita/day,5,F
+ETH,238,Ethiopia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2001,2003,20012003,2001-2003,g/capita/day,6,F
+ETH,238,Ethiopia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2002,2004,20022004,2002-2004,g/capita/day,7,F
+ETH,238,Ethiopia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2003,2005,20032005,2003-2005,g/capita/day,7,F
+ETH,238,Ethiopia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2004,2006,20042006,2004-2006,g/capita/day,7,F
+ETH,238,Ethiopia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2005,2007,20052007,2005-2007,g/capita/day,7,F
+ETH,238,Ethiopia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2006,2008,20062008,2006-2008,g/capita/day,7,F
+ETH,238,Ethiopia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2007,2009,20072009,2007-2009,g/capita/day,7,F
+ETH,238,Ethiopia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2008,2010,20082010,2008-2010,g/capita/day,8,F
+ETH,238,Ethiopia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2009,2011,20092011,2009-2011,g/capita/day,7,F
+ETH,238,Ethiopia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2010,2012,20102012,2010-2012,g/capita/day,7,F
+ETH,238,Ethiopia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2011,2013,20112013,2011-2013,g/capita/day,7,F
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2000,2000,2000,2000,I$,618.2,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2001,2001,2001,2001,I$,650.5,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2002,2002,2002,2002,I$,641.5,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2003,2003,2003,2003,I$,609.9,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2004,2004,2004,2004,I$,673.4,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2005,2005,2005,2005,I$,732.4,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2006,2006,2006,2006,I$,789.9,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2007,2007,2007,2007,I$,857,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2008,2008,2008,2008,I$,924.5,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2009,2009,2009,2009,I$,979.6,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2010,2010,2010,2010,I$,1073.8,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2011,2011,2011,2011,I$,1162.8,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2012,2012,2012,2012,I$,1230.6,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2013,2013,2013,2013,I$,1325.8,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2014,2014,2014,2014,I$,1424.5,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2015,2015,2015,2015,I$,1533.1,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2016,2016,2016,2016,I$,1608.3,X
+ETH,238,Ethiopia,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2017,2017,2017,2017,I$,1729.9,X
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,1999,2001,19992001,1999-2001,%,52,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2000,2002,20002002,2000-2002,%,49,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2001,2003,20012003,2001-2003,%,46.7,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2002,2004,20022004,2002-2004,%,44.2,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2003,2005,20032005,2003-2005,%,42,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2004,2006,20042006,2004-2006,%,39.7,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2005,2007,20052007,2005-2007,%,38.5,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2006,2008,20062008,2006-2008,%,37.2,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2007,2009,20072009,2007-2009,%,35.6,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2008,2010,20082010,2008-2010,%,33.7,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2009,2011,20092011,2009-2011,%,32.1,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2010,2012,20102012,2010-2012,%,30.7,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2011,2013,20112013,2011-2013,%,29,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2012,2014,20122014,2012-2014,%,26.9,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2013,2015,20132015,2013-2015,%,24.7,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2014,2016,20142016,2014-2016,%,22.8,F
+ETH,238,Ethiopia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2015,2017,20152017,2015-2017,%,21.4,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,1999,2001,19992001,1999-2001,millions,34.6,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2000,2002,20002002,2000-2002,millions,33.5,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2001,2003,20012003,2001-2003,millions,32.9,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2002,2004,20022004,2002-2004,millions,32.1,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2003,2005,20032005,2003-2005,millions,31.3,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2004,2006,20042006,2004-2006,millions,30.5,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2005,2007,20052007,2005-2007,millions,30.3,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2006,2008,20062008,2006-2008,millions,30.1,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2007,2009,20072009,2007-2009,millions,29.6,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2008,2010,20082010,2008-2010,millions,28.8,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2009,2011,20092011,2009-2011,millions,28.1,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2010,2012,20102012,2010-2012,millions,27.6,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2011,2013,20112013,2011-2013,millions,26.8,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2012,2014,20122014,2012-2014,millions,25.5,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2013,2015,20132015,2013-2015,millions,24,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2014,2016,20142016,2014-2016,millions,22.8,F
+ETH,238,Ethiopia,210011,Number of people undernourished (million) (3-year average),6132,Value,2015,2017,20152017,2015-2017,millions,21.9,F
+ETH,238,Ethiopia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,2014,2016,20142016,2014-2016,%,,NR
+ETH,238,Ethiopia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,2015,2017,20152017,2015-2017,%,,NR
+ETH,238,Ethiopia,210071,Number of severely food insecure people (million) (3-year average),6132,Value,2014,2016,20142016,2014-2016,millions,,NR
+ETH,238,Ethiopia,210071,Number of severely food insecure people (million) (3-year average),6132,Value,2015,2017,20152017,2015-2017,millions,,NR
+ETH,238,Ethiopia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,1999,2001,19992001,1999-2001,%,10.6,F
+ETH,238,Ethiopia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2000,2002,20002002,2000-2002,%,10.2,F
+ETH,238,Ethiopia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2001,2003,20012003,2001-2003,%,11.9,F
+ETH,238,Ethiopia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2002,2004,20022004,2002-2004,%,10.1,F
+ETH,238,Ethiopia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2003,2005,20032005,2003-2005,%,10.1,F
+ETH,238,Ethiopia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2004,2006,20042006,2004-2006,%,6.1,F
+ETH,238,Ethiopia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2005,2007,20052007,2005-2007,%,6.1,F
+ETH,238,Ethiopia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2006,2008,20062008,2006-2008,%,7.2,F
+ETH,238,Ethiopia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2007,2009,20072009,2007-2009,%,9.8,F
+ETH,238,Ethiopia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2008,2010,20082010,2008-2010,%,11.9,F
+ETH,238,Ethiopia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2009,2011,20092011,2009-2011,%,11.8,F
+ETH,238,Ethiopia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2010,2012,20102012,2010-2012,%,9.3,F
+ETH,238,Ethiopia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2011,2013,20112013,2011-2013,%,7,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,1999,2001,19992001,1999-2001,%,2.9,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2000,2002,20002002,2000-2002,%,3.1,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2001,2003,20012003,2001-2003,%,3.2,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2002,2004,20022004,2002-2004,%,3.3,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2003,2005,20032005,2003-2005,%,3.4,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2004,2006,20042006,2004-2006,%,3.5,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2005,2007,20052007,2005-2007,%,3.6,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2006,2008,20062008,2006-2008,%,3.8,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2007,2009,20072009,2007-2009,%,4.1,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2008,2010,20082010,2008-2010,%,4.3,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2009,2011,20092011,2009-2011,%,4.4,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2010,2012,20102012,2010-2012,%,4.5,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2011,2013,20112013,2011-2013,%,4.7,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2012,2014,20122014,2012-2014,%,5,F
+ETH,238,Ethiopia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2013,2015,20132015,2013-2015,%,5.2,F
+ETH,238,Ethiopia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,1999,2001,19992001,1999-2001,%,40,F
+ETH,238,Ethiopia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2000,2002,20002002,2000-2002,%,52,F
+ETH,238,Ethiopia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2001,2003,20012003,2001-2003,%,56,F
+ETH,238,Ethiopia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2002,2004,20022004,2002-2004,%,78,F
+ETH,238,Ethiopia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2003,2005,20032005,2003-2005,%,53,F
+ETH,238,Ethiopia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2004,2006,20042006,2004-2006,%,37,F
+ETH,238,Ethiopia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2005,2007,20052007,2005-2007,%,27,F
+ETH,238,Ethiopia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2006,2008,20062008,2006-2008,%,30,F
+ETH,238,Ethiopia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2007,2009,20072009,2007-2009,%,51,F
+ETH,238,Ethiopia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2008,2010,20082010,2008-2010,%,60,F
+ETH,238,Ethiopia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2009,2011,20092011,2009-2011,%,61,F
+ETH,238,Ethiopia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2010,2012,20102012,2010-2012,%,55,F
+ETH,238,Ethiopia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2011,2013,20112013,2011-2013,%,50,F
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2000,2000,2000,2000,index,-0.94,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2002,2002,2002,2002,index,-1.22,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2003,2003,2003,2003,index,-1.41,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2004,2004,2004,2004,index,-1.31,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2005,2005,2005,2005,index,-1.69,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2006,2006,2006,2006,index,-1.74,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2007,2007,2007,2007,index,-1.8,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2008,2008,2008,2008,index,-1.73,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2009,2009,2009,2009,index,-1.64,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2010,2010,2010,2010,index,-1.64,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2011,2011,2011,2011,index,-1.51,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2012,2012,2012,2012,index,-1.56,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2013,2013,2013,2013,index,-1.41,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2014,2014,2014,2014,index,-1.34,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2015,2015,2015,2015,index,-1.5,X
+ETH,238,Ethiopia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2016,2016,2016,2016,index,-1.57,X
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2000,2000,2000,2000,1000 I$,5.2,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2001,2001,2001,2001,1000 I$,5.8,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2002,2002,2002,2002,1000 I$,4.2,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2003,2003,2003,2003,1000 I$,2.3,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2004,2004,2004,2004,1000 I$,2.3,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2005,2005,2005,2005,1000 I$,2.3,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2006,2006,2006,2006,1000 I$,2.4,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2007,2007,2007,2007,1000 I$,1.9,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2008,2008,2008,2008,1000 I$,2.8,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2009,2009,2009,2009,1000 I$,2.9,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2010,2010,2010,2010,1000 I$,3,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2011,2011,2011,2011,1000 I$,3.7,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2012,2012,2012,2012,1000 I$,3.7,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2013,2013,2013,2013,1000 I$,3.1,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2014,2014,2014,2014,1000 I$,2.7,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2015,2015,2015,2015,1000 I$,2.3,F
+ETH,238,Ethiopia,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2016,2016,2016,2016,1000 I$,1.6,F
+ETH,238,Ethiopia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2000,2000,2000,2000,kcal/capita/day,22,F
+ETH,238,Ethiopia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2001,2001,2001,2001,kcal/capita/day,21,F
+ETH,238,Ethiopia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2002,2002,2002,2002,kcal/capita/day,19,F
+ETH,238,Ethiopia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2003,2003,2003,2003,kcal/capita/day,18,F
+ETH,238,Ethiopia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2004,2004,2004,2004,kcal/capita/day,13,F
+ETH,238,Ethiopia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2005,2005,2005,2005,kcal/capita/day,15,F
+ETH,238,Ethiopia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2006,2006,2006,2006,kcal/capita/day,24,F
+ETH,238,Ethiopia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2007,2007,2007,2007,kcal/capita/day,24,F
+ETH,238,Ethiopia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2008,2008,2008,2008,kcal/capita/day,31,F
+ETH,238,Ethiopia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2009,2009,2009,2009,kcal/capita/day,30,F
+ETH,238,Ethiopia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2010,2010,2010,2010,kcal/capita/day,28,F
+ETH,238,Ethiopia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2011,2011,2011,2011,kcal/capita/day,16,F
+ETH,238,Ethiopia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2012,2012,2012,2012,kcal/capita/day,16,F
+ETH,238,Ethiopia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2013,2013,2013,2013,kcal/capita/day,7,F
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2000,2000,2000,2000,%,4.7,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2001,2001,2001,2001,%,5.1,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2002,2002,2002,2002,%,5.4,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2003,2003,2003,2003,%,5.6,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2004,2004,2004,2004,%,5.8,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2005,2005,2005,2005,%,6.1,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2006,2006,2006,2006,%,6.4,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2007,2007,2007,2007,%,6.7,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2008,2008,2008,2008,%,7.1,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2009,2009,2009,2009,%,7.5,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2010,2010,2010,2010,%,7.9,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2011,2011,2011,2011,%,8.4,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2012,2012,2012,2012,%,8.9,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2013,2013,2013,2013,%,9.4,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2014,2014,2014,2014,%,10,X
+ETH,238,Ethiopia,21045,Percentage of population using safely managed drinking water services (Percent),6121,Value,2015,2015,2015,2015,%,10.5,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2000,2000,2000,2000,%,16.7,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2001,2001,2001,2001,%,18.2,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2002,2002,2002,2002,%,19.7,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2003,2003,2003,2003,%,21.1,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2004,2004,2004,2004,%,22.6,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2005,2005,2005,2005,%,24,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2006,2006,2006,2006,%,25.5,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2007,2007,2007,2007,%,26.9,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2008,2008,2008,2008,%,28.5,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2009,2009,2009,2009,%,30,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2010,2010,2010,2010,%,31.5,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2011,2011,2011,2011,%,33.1,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2012,2012,2012,2012,%,34.6,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2013,2013,2013,2013,%,36.1,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2014,2014,2014,2014,%,37.6,X
+ETH,238,Ethiopia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2015,2015,2015,2015,%,39.1,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2000,2000,2000,2000,%,3.2,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2001,2001,2001,2001,%,3.4,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2002,2002,2002,2002,%,3.6,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2003,2003,2003,2003,%,3.9,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2004,2004,2004,2004,%,4.1,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2005,2005,2005,2005,%,4.4,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2006,2006,2006,2006,%,4.6,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2007,2007,2007,2007,%,4.9,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2008,2008,2008,2008,%,5.1,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2009,2009,2009,2009,%,5.4,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2010,2010,2010,2010,%,5.7,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2011,2011,2011,2011,%,6,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2012,2012,2012,2012,%,6.2,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2013,2013,2013,2013,%,6.5,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2014,2014,2014,2014,%,6.8,X
+ETH,238,Ethiopia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2015,2015,2015,2015,%,7.1,X
+ETH,238,Ethiopia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2000,2000,2000,2000,%,12.4,X
+ETH,238,Ethiopia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2005,2005,2005,2005,%,12.3,X
+ETH,238,Ethiopia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2011,2011,2011,2011,%,10.1,X
+ETH,238,Ethiopia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2014,2014,2014,2014,%,8.7,X
+ETH,238,Ethiopia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2016,2016,2016,2016,%,9.9,X
+ETH,238,Ethiopia,21025,Percentage of children under 5 years of age who are stunted (percent),6121,Value,2000,2000,2000,2000,%,57.4,X
+ETH,238,Ethiopia,21025,Percentage of children under 5 years of age who are stunted (percent),6121,Value,2005,2005,2005,2005,%,50.7,X
+ETH,238,Ethiopia,21025,Percentage of children under 5 years of age who are stunted (percent),6121,Value,2011,2011,2011,2011,%,44.2,X
+ETH,238,Ethiopia,21025,Percentage of children under 5 years of age who are stunted (percent),6121,Value,2014,2014,2014,2014,%,40.4,X
+ETH,238,Ethiopia,21025,Percentage of children under 5 years of age who are stunted (percent),6121,Value,2016,2016,2016,2016,%,38.4,X
+ETH,238,Ethiopia,21041,Percentage of children under 5 years of age who are overweight (percent),6121,Value,2000,2000,2000,2000,%,2,X
+ETH,238,Ethiopia,21041,Percentage of children under 5 years of age who are overweight (percent),6121,Value,2005,2005,2005,2005,%,5.1,X
+ETH,238,Ethiopia,21041,Percentage of children under 5 years of age who are overweight (percent),6121,Value,2011,2011,2011,2011,%,1.8,X
+ETH,238,Ethiopia,21041,Percentage of children under 5 years of age who are overweight (percent),6121,Value,2014,2014,2014,2014,%,2.6,X
+ETH,238,Ethiopia,21041,Percentage of children under 5 years of age who are overweight (percent),6121,Value,2016,2016,2016,2016,%,2.8,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2000,2000,2000,2000,%,1.6,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2001,2001,2001,2001,%,1.7,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2002,2002,2002,2002,%,1.8,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2003,2003,2003,2003,%,1.8,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2004,2004,2004,2004,%,1.9,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2005,2005,2005,2005,%,2,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2006,2006,2006,2006,%,2.2,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2007,2007,2007,2007,%,2.3,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2008,2008,2008,2008,%,2.4,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2009,2009,2009,2009,%,2.5,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2010,2010,2010,2010,%,2.7,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2011,2011,2011,2011,%,2.8,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2012,2012,2012,2012,%,2.9,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2013,2013,2013,2013,%,3.1,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2014,2014,2014,2014,%,3.3,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2015,2015,2015,2015,%,3.4,X
+ETH,238,Ethiopia,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2016,2016,2016,2016,%,3.6,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2000,2000,2000,2000,%,33.1,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2001,2001,2001,2001,%,31.9,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2002,2002,2002,2002,%,30.7,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2003,2003,2003,2003,%,29.6,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2004,2004,2004,2004,%,28.5,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2005,2005,2005,2005,%,27.4,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2006,2006,2006,2006,%,26.2,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2007,2007,2007,2007,%,25.1,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2008,2008,2008,2008,%,24,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2009,2009,2009,2009,%,23.1,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2010,2010,2010,2010,%,22.3,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2011,2011,2011,2011,%,21.9,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2012,2012,2012,2012,%,21.7,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2013,2013,2013,2013,%,21.8,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2014,2014,2014,2014,%,22.1,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2015,2015,2015,2015,%,22.7,X
+ETH,238,Ethiopia,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2016,2016,2016,2016,%,23.4,X
+ETH,238,Ethiopia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age,6121,Value,2000,2000,2000,2000,%,54.5,X
+ETH,238,Ethiopia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age,6121,Value,2005,2005,2005,2005,%,48.8,X
+ETH,238,Ethiopia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age,6121,Value,2011,2011,2011,2011,%,52,X
+ETH,238,Ethiopia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age,6121,Value,2016,2016,2016,2016,%,56.5,X
